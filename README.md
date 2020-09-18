@@ -1,5 +1,6 @@
 # 03_AI_in_Pharm_Sci_classification
 Classification example in Python
+__Author__: Jakub Szlęk (j.szlek[at]uj.edu.pl)
 
 Requested libraries:
 `pandas`, `numpy`, `scikit-learn`=>0.21.3, `seaborn`, `matplotlib`
